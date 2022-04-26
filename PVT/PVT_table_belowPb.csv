@@ -1,4 +1,4 @@
-﻿"Pressure, psig","Gas/Oil Ratio, Rsd","Oil Volume, Bod","Total Volume,Btd","Oil Density, gm/cc","Deviation Factor, Z",Formation Volume Factor,Incremental Gas Gravity (Air = 1.000)
+﻿"Pressure, psig","Gas/Oil Ratio, Rsd","Oil Volume, Bod","Total Volume,Btd","Oil Density, gm/cc","Deviation Factor, Z",Gas Formation Volume Factor,Incremental Gas Gravity (Air = 1.000)
 1936,933,1.73,1.73,0.6484,0,0,0
 1700,841,1.679,1.846,0.6577,0.864,0.01009,0.885
 1500,766,1.639,1.982,0.665,0.869,0.01149,0.894
